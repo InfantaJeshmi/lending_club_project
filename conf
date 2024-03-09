@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 # this contains the config files - which has the path of data files...
 
 # this code is for main branch
+=======
+#This is configuration file - which contains the file path
+
+# config path for feature1 git branch
+
+>>>>>>> 0b61b2d006c0cf81cc2b9fc523f6d4121d69912a

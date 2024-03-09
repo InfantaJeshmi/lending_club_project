@@ -6,4 +6,11 @@
 
 # https://github.com/InfantaJeshmi/lending_club_project.git
 
+<<<<<<< HEAD
 # this code is for main branch
+=======
+# made few changes for the 2nd commit and git push
+
+# feature1 branch
+
+>>>>>>> 0b61b2d006c0cf81cc2b9fc523f6d4121d69912a
